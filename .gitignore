@@ -2,5 +2,5 @@ agents/*
 skills/*
 skills-lock.json
 
-login/.agent/*
+login/.agents/*
 login/skills-lock.json
